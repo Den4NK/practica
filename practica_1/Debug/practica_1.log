@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Дениэл\source\repos\practica_1\practica_1\MyForm.h(219,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  practica_1.vcxproj -> C:\Users\Дениэл\source\repos\practica_1\Debug\practica_1.exe
